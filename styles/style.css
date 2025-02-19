@@ -134,7 +134,7 @@ body{
     }
 
     .header__menu{
-        justify-content: space-around;
+        justify-content: center;
     }
     .presentacion{
         flex-direction: column-reverse;
